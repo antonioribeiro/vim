@@ -49,8 +49,8 @@ set undofile
 
 let mapleader = ","
 
-nnoremap / /\v
-vnoremap / /\v
+"nnoremap / /\v
+"vnoremap / /\v
 
 set ignorecase
 set smartcase
@@ -65,7 +65,7 @@ vnoremap <tab> %
 set wrap
 set textwidth=79
 set formatoptions=qrn1
-set colorcolumn=85
+"set colorcolumn=85
 
 	
 "nnoremap <up> <nop>
